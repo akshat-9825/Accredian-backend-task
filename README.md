@@ -13,7 +13,7 @@ This repository contains the backend codebase for handling user authentication (
 
 ```
     git clone https://github.com/your-username/backend-authentication.git
-    cd server
+    cd Accredian-backend-task
 ```
 
 2. Install dependencies
